@@ -12,11 +12,13 @@ Create a portfolio website. The requirements:
 - My skills (any relevant skills)
 - My projects (any projects that I made)
 
-
-
 ---------------------------------------------------------------------------------------------------
 
 Steps to run the program:
 
 1. Download the whole folder.
 2. Open the hi.html in html folder.
+
+---------------------------------------------------------------------------------------------------
+
+Resource: https://www.youtube.com/watch?v=27JtRAI3QO8
